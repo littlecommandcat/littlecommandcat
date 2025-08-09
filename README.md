@@ -4,6 +4,8 @@
 
 ## 關於我
 ![Stats](https://github-readme-stats.vercel.app/api?username=catchen541&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=catchen541)
+
 
 ### 我的技能
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catchen541&layout=compact&langs_count=8)
