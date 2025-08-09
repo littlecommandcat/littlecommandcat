@@ -1,37 +1,20 @@
+# 我是貓貓！
 
-<!DOCTYPE html>
-<html lang="zh-Hant">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+歡迎來到我的 GitHub 頁面！我會在這裡分享我所做的專案、程式碼。
 
-  <h1>我是貓貓！</h1>
+## 關於我
+![Stats](https://github-readme-stats.vercel.app/api?username=catchen541&show_icons=true&include_all_commits=true&count_private=true)
 
-  <p>歡迎來到我的 GitHub 頁面！我會在這裡分享我所做的專案、程式碼。</p>
+### 我的技能
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catchen541&layout=compact&langs_count=8)
 
-  <h2>關於我</h2>
-  <p>我是喜歡製作 <strong>Python</strong> 。我喜歡解決技術問題並學習新的技術堆疊並不斷提升自己在 <strong>Discord 機器人開發</strong> 方面的能力。</p>
+- **框架和庫：** Flask, Discord.py, Tkinter, Wavelink  
+- **工具：** VSCode  
 
-  <h3>我的技能</h3>
-  <ul>
-    <li><strong>程式語言：</strong> Python, JavaScript, HTML/CSS</li>
-    <li><strong>框架和庫：</strong> Flask, Discord.py, Tkinter, Wavelink</li>
-    <li><strong>工具：</strong>VSCode</li>
-  </ul>
+## 目前正在做的機器人
+我目前正在開發一個 Discord 多功能機器人，音樂支持平台 YouTube 和 SoundCloud。這個機器人名為 **小喵喵**，專注於伺服器管理、小遊戲、音樂功能與多人RPG。
 
-  <h2>目前正在做的機器人</h2>
-  <p>我目前正在開發一個Discord機器人音樂功能，支持SoundCloud。這個機器人名為 <strong>小喵喵</strong> ，該機器人專注於伺服器管理、小遊戲與音樂功能。</p>
-
-  <h2>聯繫我</h2>
-  <p>如果你對我的專案感興趣，或者想討論一些技術問題，可以通過以下方式聯繫我：</p>
-  <ul>
-    <li>GitHub: <a href="https://github.com/catchen541" target="_blank">catchen541</a></li>
-    <li>Discord: <a href="https://discord.gg/2hMVBxuBrQ">貓貓的窩</a></li>
-    <li>小喵喵: <a href="https://discord.com/oauth2/authorize?client_id=1144161789832069141">邀請至伺服器</a></li>
-  </ul>
-
-
-</body>
-</html>
+## 聯繫我
+- GitHub: [catchen541](https://github.com/catchen541)  
+- Discord: [貓貓的窩](https://discord.gg/2hMVBxuBrQ)  
+- 小喵喵: [邀請至伺服器](https://discord.com/oauth2/authorize?client_id=1144161789832069141)
