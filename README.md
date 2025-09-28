@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlecommandcat&layout=compact&langs_count=8)
 
 - **框架和庫：** Flask, Discord.py, Tkinter, Wavelink  
-- **工具：** VSCode  
+- **工具：** VSCode, Dev-C++, Notepad++
 
 ## 目前正在做的機器人
 我目前正在開發一個 Discord 多功能機器人，音樂支持平台 YouTube 和 SoundCloud。這個機器人名為 **小喵喵**，專注於伺服器管理、小遊戲、音樂功能與多人RPG。
