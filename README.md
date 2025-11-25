@@ -2,7 +2,7 @@
 
 歡迎來到我的 GitHub 頁面！我會在這裡分享我所做的專案、程式碼。
 
-## 關於我 Abput
+## 關於我 About
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=littlecommandcat)
 
 
