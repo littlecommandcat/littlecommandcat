@@ -9,8 +9,9 @@
 ### 我的技能 Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlecommandcat&layout=compact&langs_count=8)
 
-- **框架和庫：** Flask, Discord.py, Tkinter, Wavelink  
-- **工具：** VSCode, Dev-C++, Notepad++
+- **框架和套件：** Numpy, Pillow, Flask, Discord.py, Tkinter, Wavelink  
+- **工具：** VSCode, Dev-C++, Notepad++, ~~記事本~~, ~~備忘錄~~
+- **自製套件：** cat-handwriting-recognizer
 
 ## 目前開發專案
 我目前正在開發一個 Discord 多功能機器人，音樂支持平台 YouTube 和 SoundCloud。這個機器人名為 **小喵喵**，專注於伺服器管理、小遊戲、音樂功能與多人RPG。
