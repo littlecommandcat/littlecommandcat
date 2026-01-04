@@ -12,6 +12,7 @@
 - **框架和套件：** Numpy, Pillow, Flask, Discord.py, Tkinter, Wavelink  
 - **工具：** VSCode, Dev-C++, Notepad++, ~~記事本~~, ~~備忘錄~~
 - **自製套件：** cat-handwriting-recognizer
+- **魔改套件：** discord.py, wavelink, dhooks
 
 ## 目前開發專案
 我目前正在開發一個 Discord 多功能機器人，音樂支持平台 YouTube 和 SoundCloud。這個機器人名為 **小喵喵**，專注於伺服器管理、小遊戲、音樂功能與多人RPG。
