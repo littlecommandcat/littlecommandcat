@@ -6,7 +6,7 @@
 
 
 ### 我的技能 Skills
-[![Skills](https://skills.syvixor.com/api/icons?i=python,js,node,kotlin,cpp,lavalink,css,html,flask,cloudflare,vercel,visualstudiocode,visualstudio,visualstudiocodeinsiders)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=python,js,node,kotlin,cpp,ruby,yml,json,mysql,numpy,lavalink,css,html,flask,cloudflare,vercel,visualstudiocode,visualstudio,visualstudiocodeinsiders)](https://github.com/syvixor/skills-icons)
 
 
 - **框架和套件：** Numpy, Pillow, Flask, Discord.py, Tkinter, Wavelink  
