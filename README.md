@@ -1,4 +1,3 @@
-# 我是貓貓！
 
 歡迎來到我的 GitHub 頁面！我會在這裡分享我所做的專案、程式碼。
 
@@ -7,7 +6,8 @@
 
 
 ### 我的技能 Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlecommandcat&layout=compact&langs_count=8)
+[![Skills](https://skills.syvixor.com/api/icons?i=python,js,node,kotlin,cpp,lavalink,css,html,flask,cloudflare,visualstudiocode,visualstudio,visualstudiocodeinsiders)](https://github.com/syvixor/skills-icons)
+
 
 - **框架和套件：** Numpy, Pillow, Flask, Discord.py, Tkinter, Wavelink  
 - **工具：** VSCode, Dev-C++, Notepad++, ~~記事本~~, ~~備忘錄~~
