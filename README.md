@@ -18,6 +18,9 @@
 
 另外正在開發一個輕量型圖片辨識機器學習套件
 
+## 貢獻圖
+![snake](https://raw.githubusercontent.com/littlecommandcat/littlecommandcat/output/github-contribution-grid-snake.svg)
+
 ## 聯繫我
 - GitHub: [littltcommandcat](https://github.com/littlecommandcat)  
 - Discord: [喵喵的窩](https://discord.gg/2hMVBxuBrQ)  
