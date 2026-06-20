@@ -1,28 +1,38 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4A5A&center=true&vCenter=true&width=435&lines=A+cat+from+Taiwan!" alt="Typing SVG" />
+</p>
 
-歡迎來到我的 GitHub 頁面！我會在這裡分享我所做的專案、程式碼。
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=littlecommandcat&show_icons=true&theme=radical" alt="littlecommandcat's GitHub stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlecommandcat&exclude_repo=github-readme-stats,littlecommandcat.github.io&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
-## 關於我 About
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=littlecommandcat)
+---
 
+### Skills
 
-### 我的技能 Skills
-[![Skills](https://skills.syvixor.com/api/icons?i=python,js,node,kotlin,cpp,ruby,yml,json,mysql,numpy,lavalink,css,html,flask,cloudflare,vercel,visualstudiocode,visualstudio,visualstudiocodeinsiders)](https://github.com/syvixor/skills-icons)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,cpp,ruby,githubactions,flask,fastapi,css,html,cloudflare,vercel,vscode&theme=dark" />
+  </a>
+</p>
 
+- **Libraries / Frameworks:** NumPy, Pillow, Flask, FastAPI, SlowAPI, Discord.py, Tkinter, LavaLyra
+- **Tools:** VS Code, Dev-C++, Notepad++
 
-- **框架和套件：** Numpy, Pillow, Flask, Discord.py, Tkinter, Wavelink  
-- **工具：** VSCode, Dev-C++, Notepad++, ~~記事本~~, ~~備忘錄~~
-- **自製套件：** cat-handwriting-recognizer
-- **魔改套件：** discord.py, wavelink, dhooks
+---
 
-## 目前開發專案
-我目前正在開發一個 Discord 多功能機器人，音樂支持平台 YouTube 和 SoundCloud。這個機器人名為 **小喵喵**，專注於伺服器管理、小遊戲、音樂功能與多人RPG。
+### Contribution Snake
 
-另外正在開發一個輕量型圖片辨識機器學習套件
+<p align="center">
+  <img src="https://raw.githubusercontent.com/littlecommandcat/littlecommandcat/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+</p>
 
-## 貢獻圖
-![snake](https://raw.githubusercontent.com/littlecommandcat/littlecommandcat/output/github-contribution-grid-snake.svg)
+---
 
-## 聯繫我
-- GitHub: [littltcommandcat](https://github.com/littlecommandcat)  
-- Discord: [喵喵的窩](https://discord.gg/2hMVBxuBrQ)  
-- 小喵喵: [邀請至伺服器](https://discord.com/oauth2/authorize?client_id=1144161789832069141)
+### Connect with me
+
+- **GitHub:** [@littlecommandcat](https://github.com/littlecommandcat)
+- **Discord Server:** [喵喵的窩](https://discord.gg/2hMVBxuBrQ)
+- **Discord Bot:** [小喵喵 Invite](https://discord.com/oauth2/authorize?client_id=1144161789832069141)
