@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=littlecommandcat&show_icons=true&theme=radical" alt="littlecommandcat's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=littlecommandcat&theme=radical" alt="littlecommandcat's GitHub stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlecommandcat&exclude_repo=github-readme-stats,littlecommandcat.github.io&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=littlecommandcat&theme=radical" alt="Top Langs" />
 </p>
 
 ---
