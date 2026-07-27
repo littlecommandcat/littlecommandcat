@@ -3,6 +3,8 @@ name: Update Profile
 on:
   schedule:
     - cron: "0 */12 * * *"
+  push:
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
@@ -24,7 +26,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: "username=${{ github.repository_owner }}&show_icons=true"
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -32,7 +34,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8
+          options: "username=${{ github.repository_owner }}&hide=html,css&layout=compact&langs_count=8&include_all_commits=true"
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -43,6 +45,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push all SVG assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
