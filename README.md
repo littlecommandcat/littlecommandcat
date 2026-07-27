@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=littlecommandcat&theme=radical" alt="littlecommandcat's GitHub stats" />
-  <br/><br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=littlecommandcat&theme=radical" alt="Top Langs" />
+  <img src="https://raw.githubusercontent.com/littlecommandcat/littlecommandcat/output/stats.svg" alt="littlecommandcat's GitHub stats" height="165" />
+  <img src="https://raw.githubusercontent.com/littlecommandcat/littlecommandcat/output/top-langs.svg" alt="Top Langs" height="165" />
 </p>
 
 ---
