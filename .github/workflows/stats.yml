@@ -34,7 +34,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: "username=${{ github.repository_owner }}&hide=html,css&layout=compact&langs_count=8&include_all_commits=true"
+          options: "username=${{ github.repository_owner }}&hide=html,css&layout=compact&langs_count=8&include_forks=true"
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
