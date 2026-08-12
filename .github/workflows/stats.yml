@@ -28,7 +28,7 @@ jobs:
           card: stats
           options: "username=${{ github.repository_owner }}&show_icons=true"
           path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -36,7 +36,7 @@ jobs:
           card: top-langs
           options: "username=${{ github.repository_owner }}&hide=html,css&layout=compact&langs_count=8"
           path: dist/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
@@ -46,7 +46,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
 
       - name: Push all SVG assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
